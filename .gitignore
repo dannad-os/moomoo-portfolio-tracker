@@ -1,0 +1,11 @@
+# personal data — never tracked
+Portfolio_Tracker.xlsx
+tracker_log.txt
+*.xlsx
+# scratch
+output/
+research/*.tmp
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
